@@ -1,1 +1,4 @@
-
+1.test.py中weights_path参数需要从北航网盘下载到指定目录
+北航网盘：
+指定目录：
+2.测试样本txt文件应存放在config/coco.data文件的valid位置

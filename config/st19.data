@@ -5,6 +5,6 @@ trainLabelsPath=data/ct19/labels/
 valid=data/ct19/5k.txt
 validImagesPath=data/ct19/images/
 validLabelsPath=data/ct19/labels/
-names=data/ct19.names
+names=data/st19.names
 backup=backup_ct19/
 eval=ct19

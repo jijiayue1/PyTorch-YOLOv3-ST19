@@ -2,4 +2,4 @@
 北航网盘：https://bhpan.buaa.edu.cn/#/preview?gns=5EB3AD1CE7BE439BB61AFFA1A2A4F038%2F69DB4CFFF1E042A793EE41630997F38C%2F7CD1D0EBC4774C9AA6559F0612A97165%2FF766F9733A5B4F0E97C7EECE2B0A66F2&rev=F7B042720F4740C480642B2509DE3737
 文件名：yolov3_ckpt_54.pth
 指定目录：weights
-2.测试样本txt文件应存放在config/coco.data文件的valid位置
+2.测试样本txt文件应存放在data/ct19文件的valid位置
